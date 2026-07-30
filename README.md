@@ -538,7 +538,7 @@ Pandas
 Plotly
 📦 Installation
 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/SentinelIR.git
+git clone https://github.com/amsaqeeus/SentinelIR.git
 
 cd SentinelIR
 2. Create a virtual environment
